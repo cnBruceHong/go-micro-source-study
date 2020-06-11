@@ -5,18 +5,23 @@
 ## 入门使用 <a id="ch1"></a>
 
 * [微服务与GoMicro](ch1/wei-fu-wu-yu-gomicro.md)
-* [入门](ch1/kuang-jia-zong-lan.md)
+* [前置知识](ch1/qian-zhi-zhi-shi.md)
+* [使用GoMicro](ch1/kuang-jia-zong-lan.md)
 * [源码结构](ch1/yuan-ma-jie-gou.md)
 
 ## GoMicro运行时 <a id="ch2"></a>
 
 * [介绍](ch2/untitled.md)
+* [micro 命令工具](ch2/micro-ming-ling-gong-ju.md)
 
-## GoMicro组件 <a id="ch3"></a>
+## GoMicro运行时 <a id="ch3"></a>
 
-* [API](ch3/untitled.md)
+* [总览](ch3/zong-lan.md)
+* [Config 组件](ch3/untitled.md)
+* [Broker 组件](ch3/broker-zu-jian.md)
+* [Client 组件](ch3/client-zu-jian.md)
 
-## 服务部署 <a id="ch4"></a>
+## 开发部署 <a id="ch4"></a>
 
 * [Docker 与 Kubernetes](ch4/untitled.md)
 

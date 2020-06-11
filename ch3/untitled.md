@@ -1,2 +1,2 @@
-# API
+# Config 组件
 
