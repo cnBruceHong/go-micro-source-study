@@ -1,2 +1,2 @@
-# Config 组件
+# Config组件
 
