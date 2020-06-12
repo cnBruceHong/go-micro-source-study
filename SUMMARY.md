@@ -8,6 +8,7 @@
 * [前置知识](ch1/qian-zhi-zhi-shi/README.md)
   * [服务发现](ch1/qian-zhi-zhi-shi/fu-wu-fa-xian.md)
   * [RPC](ch1/qian-zhi-zhi-shi/rpc.md)
+  * [服务网关](ch1/qian-zhi-zhi-shi/fu-wu-wang-guan.md)
 * [使用GoMicro](ch1/kuang-jia-zong-lan.md)
 * [源码结构](ch1/yuan-ma-jie-gou.md)
 
