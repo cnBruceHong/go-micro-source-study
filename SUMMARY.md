@@ -19,10 +19,10 @@
 
 ## GoMicro框架 <a id="ch3"></a>
 
-* [介绍](ch3/zong-lan.md)
-* [Config组件](ch3/untitled.md)
-* [Broker组件](ch3/broker-zu-jian.md)
-* [Client组件](ch3/client-zu-jian.md)
+* [介绍](ch3/ch3-01-intro.md)
+* [Config组件](ch3/ch3-01-config.md)
+* [Broker](ch3/broker-zu-jian.md)
+* [Client](ch3/client-zu-jian.md)
 
 ## 组件开发
 
