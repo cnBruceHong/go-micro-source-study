@@ -17,7 +17,7 @@
 * [介绍](ch2/untitled.md)
 * [micro 命令工具](ch2/micro-ming-ling-gong-ju.md)
 
-## GoMicro运行时 <a id="ch3"></a>
+## GoMicro框架 <a id="ch3"></a>
 
 * [总览](ch3/zong-lan.md)
 * [Config 组件](ch3/untitled.md)
