@@ -21,6 +21,10 @@
 * [Broker 组件](ch3/broker-zu-jian.md)
 * [Client 组件](ch3/client-zu-jian.md)
 
+## 组件开发
+
+* [Plugins 介绍](zu-jian-kai-fa/plugins-jie-shao.md)
+
 ## 开发部署 <a id="ch4"></a>
 
 * [Docker 与 Kubernetes](ch4/untitled.md)
