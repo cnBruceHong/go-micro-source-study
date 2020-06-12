@@ -5,7 +5,9 @@
 ## 入门使用 <a id="ch1"></a>
 
 * [微服务与GoMicro](ch1/wei-fu-wu-yu-gomicro.md)
-* [前置知识](ch1/qian-zhi-zhi-shi.md)
+* [前置知识](ch1/qian-zhi-zhi-shi/README.md)
+  * [服务发现](ch1/qian-zhi-zhi-shi/fu-wu-fa-xian.md)
+  * [RPC](ch1/qian-zhi-zhi-shi/rpc.md)
 * [使用GoMicro](ch1/kuang-jia-zong-lan.md)
 * [源码结构](ch1/yuan-ma-jie-gou.md)
 
