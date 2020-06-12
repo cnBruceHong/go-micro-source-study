@@ -26,7 +26,7 @@
 
 ## 组件开发
 
-* [Plugins 介绍](zu-jian-kai-fa/plugins-jie-shao.md)
+* [Plugins介绍](zu-jian-kai-fa/plugins-jie-shao.md)
 
 ## 开发部署 <a id="ch4"></a>
 
