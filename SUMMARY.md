@@ -26,8 +26,8 @@
 
 ## 组件开发
 
-* [Plugins接口](zu-jian-kai-fa/plugins-jie-kou.md)
-* [Plugins介绍](zu-jian-kai-fa/plugins-jie-shao.md)
+* [Plugins介绍](zu-jian-kai-fa/ch4-01-intro.md)
+* [接口契约](zu-jian-kai-fa/ch4-02-interface.md)
 
 ## 开发部署 <a id="ch4"></a>
 
