@@ -32,6 +32,7 @@ type Store interface {
 	
 	// String returns the name of the implementation.
 	String() string
+	
 }
 ```
 
