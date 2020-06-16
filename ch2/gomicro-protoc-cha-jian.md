@@ -1,2 +1,2 @@
-# GoMicro Protoc 插件
+# GoMicro Protoc Gen 插件
 
