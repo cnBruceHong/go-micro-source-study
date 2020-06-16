@@ -1,6 +1,6 @@
 # 数据存储
 
-GoMicro 为我们提供了 \`github.com/micro/go-micro/store\` 包，里面包含了几种常见的数据存储方案。
+GoMicro 为我们提供了 `github.com/micro/go-micro/store` 包，里面包含了几种常见的数据存储方案。
 
 本节我们将会详细讲解每一种存储的源码实现。
 
