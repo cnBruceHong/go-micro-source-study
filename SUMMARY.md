@@ -18,6 +18,7 @@
 * [介绍](ch2/untitled.md)
 * [INIT 命令](ch2/init-ming-ling.md)
 * [WEB 命令](ch2/web-ming-ling.md)
+* [LIST 命令](ch2/list-ming-ling.md)
 * [API 命令](ch2/micro-ming-ling-gong-ju.md)
 * [AUTH 命令](ch2/auth-ming-ling.md)
 * [LOGIN 命令](ch2/login-ming-ling.md)
