@@ -19,6 +19,7 @@
 
 ## GoMicro框架 <a id="ch3"></a>
 
+* [鉴权服务](ch3/jian-quan-fu-wu.md)
 * [介绍](ch3/ch3-01-intro.md)
 * [Config组件](ch3/ch3-01-config.md)
 * [Broker](ch3/broker-zu-jian.md)
