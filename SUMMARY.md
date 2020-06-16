@@ -15,7 +15,9 @@
 ## GoMicro运行时 <a id="ch2"></a>
 
 * [介绍](ch2/untitled.md)
-* [micro 命令工具](ch2/micro-ming-ling-gong-ju.md)
+* [API 命令](ch2/micro-ming-ling-gong-ju.md)
+* [AUTH 命令](ch2/auth-ming-ling.md)
+* [LOGIN 命令](ch2/login-ming-ling.md)
 * [GoMicro Protoc 插件](ch2/gomicro-protoc-cha-jian.md)
 
 ## GoMicro框架 <a id="ch3"></a>
