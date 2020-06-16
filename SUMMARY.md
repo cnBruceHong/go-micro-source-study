@@ -15,6 +15,7 @@
 ## GoMicro运行时 <a id="ch2"></a>
 
 * [介绍](ch2/untitled.md)
+* [INIT 命令](ch2/init-ming-ling.md)
 * [API 命令](ch2/micro-ming-ling-gong-ju.md)
 * [AUTH 命令](ch2/auth-ming-ling.md)
 * [LOGIN 命令](ch2/login-ming-ling.md)
