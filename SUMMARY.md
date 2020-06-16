@@ -20,6 +20,7 @@
 ## GoMicro框架 <a id="ch3"></a>
 
 * [介绍](ch3/ch3-01-intro.md)
+* [负载均衡](ch3/fu-zai-jun-heng.md)
 * [鉴权服务](ch3/jian-quan-fu-wu.md)
 * [动态配置](ch3/ch3-01-config.md)
 * [消息代理](ch3/broker-zu-jian.md)
