@@ -36,7 +36,7 @@ go get github.com/micro/micro/v2
 
 在 Terminal 终端中输入 `micro` , 如果看到以下 HELP 界面，证明已经完成安装。
 
-```bash
+```text
 NAME:
    micro - A microservice runtime
 
