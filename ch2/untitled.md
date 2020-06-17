@@ -162,7 +162,7 @@ GLOBAL OPTIONS:
    --version                            print the version (default: false)
 ```
 
-为了快速官方
+我们可以看到，micro 命令为我们提供了一系列的 Command ，
 
 ## 功能
 
