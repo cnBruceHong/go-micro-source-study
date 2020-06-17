@@ -32,7 +32,9 @@ go get github.com/micro/micro/v2
 
 
 
-安装完成后，检查 $GOPATH/bin 是否存在你的系统 PATH 检索路径下，如果没有，需要添加。
+安装完成后，检查 `$GOPATH/bin` 是否存在你的系统 PATH 检索路径下，如果没有，需要添加。
+
+在 Terminal 终端中输入 `micro` , 如果看到以下 HELP 界面，证明已经完成安装。
 
 ```bash
 NAME:
