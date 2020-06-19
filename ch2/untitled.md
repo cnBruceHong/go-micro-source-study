@@ -4,7 +4,7 @@
 
 ## 安装
 
-它是一个二进制可执行文件，我们可以通过以下命令安装到我们的 `$GOPATH/bin` 目录。
+它是一个二进制可执行文件，我们可以通过以下命令安装到我们的 `$GOBIN` 目录。
 
 ```bash
 go get github.com/micro/micro/v2
@@ -32,7 +32,7 @@ go get github.com/micro/micro/v2
 
 
 
-安装完成后，检查 `$GOPATH/bin` 是否存在你的系统 PATH 检索路径下，如果没有，需要添加。
+安装完成后，检查 `$GOBIN` 是否存在你的系统 PATH 检索路径下，如果没有，需要添加。
 
 在 Terminal 终端中输入 `micro` , 如果看到以下 HELP 界面，证明已经完成安装。
 
