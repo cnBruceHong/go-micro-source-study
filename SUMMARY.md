@@ -6,12 +6,14 @@
 
 * [微服务与GoMicro](ch1/wei-fu-wu-yu-gomicro.md)
 * [前置知识](ch1/qian-zhi-zhi-shi/README.md)
-  * [容器化](ch1/qian-zhi-zhi-shi/rong-qi-hua.md)
+  * [服务细分与容器化](ch1/qian-zhi-zhi-shi/rong-qi-hua.md)
   * [服务网关](ch1/qian-zhi-zhi-shi/fu-wu-wang-guan.md)
   * [服务注册与发现](ch1/qian-zhi-zhi-shi/fu-wu-fa-xian.md)
   * [RPC通信](ch1/qian-zhi-zhi-shi/rpc.md)
   * [存储](ch1/qian-zhi-zhi-shi/cun-chu.md)
   * [服务治理](ch1/qian-zhi-zhi-shi/fu-wu-zhi-li.md)
+  * [消息总线](ch1/qian-zhi-zhi-shi/xiao-xi-zong-xian.md)
+  * [配置管理](ch1/qian-zhi-zhi-shi/pei-zhi-guan-li.md)
 * [使用GoMicro](ch1/kuang-jia-zong-lan.md)
 * [源码结构](ch1/yuan-ma-jie-gou.md)
 
