@@ -30,8 +30,6 @@ go get github.com/micro/micro/v2
   powershell -Command "iwr -useb https://raw.githubusercontent.com/micro/micro/master/scripts/install.ps1 | iex"
   ```
 
-
-
 安装完成后，检查 `$GOBIN` 是否存在你的系统 PATH 检索路径下，如果没有，需要添加。
 
 在 Terminal 终端中输入 `micro` , 如果看到以下 HELP 界面，证明已经完成安装。
@@ -165,27 +163,41 @@ GLOBAL OPTIONS:
    --version                            print the version (default: false)
 ```
 
-我们可以看到，micro 命令为我们提供了一系列的 Command ，
+我们可以看到，`micro` 为我们提供了一系列的命令。运行对应的命令可以执行或启动对应的服务。
 
-## 功能
+## micro 源码结构
 
-### 服务网关
+我们从 [https://github.com/micro/micro/tree/v2.8.1](https://github.com/micro/micro/tree/v2.8.1) 拉取代码并打开，可以看到以下的代码结构。
 
+```text
+.
+├── Dockerfile
+├── LICENSE
+├── Makefile
+├── README.md
+├── client
+├── cmd
+├── go.mod
+├── go.sum
+├── internal
+├── main.go
+├── platform
+├── plugin
+├── scripts
+├── server
+├── service
+└── test
+```
 
+`main.go` 是 `micro` 的入口文件。代码非常简单，就是一个初始化操作 ：
 
-### 鉴权服务
+```text
+cmd.Init()
+```
 
-### 自动化机器人
+接下来我们主要看 `cmd` 这个子路径。
 
-### 消息代理
+ 
 
-
-
-## 初始化
-
-
-
-
-
-
+。
 
