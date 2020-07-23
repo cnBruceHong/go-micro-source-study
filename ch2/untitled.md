@@ -201,7 +201,7 @@ GLOBAL OPTIONS:
 
 到了
 
-
+接下来我们了解下 cmd 的初始化流程。
 
 
 
