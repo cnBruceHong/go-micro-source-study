@@ -169,7 +169,7 @@ GLOBAL OPTIONS:
 
 我们从 [https://github.com/micro/micro/tree/v2.8.1](https://github.com/micro/micro/tree/v2.8.1) 拉取代码并打开，可以看到以下的代码结构。
 
-```text
+```bash
 .
 ├── Dockerfile
 ├── LICENSE
@@ -191,11 +191,26 @@ GLOBAL OPTIONS:
 
 `main.go` 是 `micro` 的入口文件。代码非常简单，就是一个初始化操作 ：
 
-```text
+```go
 cmd.Init()
 ```
 
-接下来我们主要看 `cmd` 这个子路径。
+接下来我们主要看 `cmd` 这个子路径下 `Init` 的实现。
+
+```go
+// Init initialised the command line
+func Init(options ...micro.Option) {
+   Setup(cmd.App(), options...)
+
+   cmd.Init(
+      cmd.Name(name),
+      cmd.Description(description),
+      cmd.Version(buildVersion()),
+   )
+}
+```
+
+ 
 
  
 
