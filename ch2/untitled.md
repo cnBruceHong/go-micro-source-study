@@ -1,6 +1,6 @@
 # 介绍
 
-为了方便我们快速开发基于云的分布式微服务应用，Go Micro 提供了一个叫做 Runtime 的 CLI 工具。
+为了方便我们快速开发基于云的分布式微服务应用，Go Micro 提供了一个叫做 `micro` 的 CLI 工具。
 
 ## 安装
 
@@ -163,7 +163,7 @@ GLOBAL OPTIONS:
    --version                            print the version (default: false)
 ```
 
-我们可以看到，`micro` 为我们提供了一系列的命令。运行对应的命令可以执行或启动对应的服务。
+我们可以看到，`micro` 为我们提供了一系列的命令。运行对应的命令可以执行对应的功能或启动对应的内置服务，方便我们快速构建一套微服务应用。
 
 ## micro 源码结构
 
@@ -188,6 +188,22 @@ GLOBAL OPTIONS:
 ├── service
 └── test
 ```
+
+* client: 
+* cmd: micro命令行的主要实现在这里
+* internal
+* platform
+* plugin
+* scripts
+* server
+* service
+* test: 集成测试的文件夹目录
+
+到了
+
+
+
+
 
 `main.go` 是 `micro` 的入口文件。代码非常简单，就是一个初始化操作 ：
 
