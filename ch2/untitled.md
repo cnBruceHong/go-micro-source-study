@@ -201,7 +201,31 @@ GLOBAL OPTIONS:
 
 到了
 
-接下来我们了解下 cmd 的初始化流程。
+接下来我们了解下 `micro` 的初始化流程。
+
+![](../.gitbook/assets/image%20%281%29.png)
+
+ `cmd.App()` 这个函数返回了一个 `*cli.App` 实例，该实例保存在 DefaultCmd 的全局变量中。
+
+```go
+DefaultCmd = newCmd()
+```
+
+可以看到，全局变量 DefaultCmd 由 cmd.newCmd\(\) 函数创建，而该函数返回了一个 Cmd 的接口。换言之，我们的 DefaultCmd 变量实现了 Cmd 这个接口。
+
+通过 Cmd 接口源码可以得知，它主要提供了几个方法。
+
+```go
+type Cmd interface {
+	// The cli app within this cmd
+	App() *cli.App
+	// Adds options, parses flags and initialise
+	// exits on error
+	Init(opts ...Option) error
+	// Options set within this command
+	Options() Options
+}
+```
 
 
 
