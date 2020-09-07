@@ -4,7 +4,8 @@
 
 ## 入门使用 <a id="ch1"></a>
 
-* [微服务与GoMicro](ch1/wei-fu-wu-yu-gomicro.md)
+* [微服务与GoMicro](ch1/ch1-1/README.md)
+  * [微服务介绍](ch1/ch1-1/ch0-1-1.md)
 * [前置知识](ch1/qian-zhi-zhi-shi/README.md)
   * [服务细分与容器化](ch1/qian-zhi-zhi-shi/rong-qi-hua.md)
   * [服务网关](ch1/qian-zhi-zhi-shi/fu-wu-wang-guan.md)
@@ -14,7 +15,7 @@
   * [服务治理](ch1/qian-zhi-zhi-shi/fu-wu-zhi-li.md)
   * [消息总线](ch1/qian-zhi-zhi-shi/xiao-xi-zong-xian.md)
   * [配置管理](ch1/qian-zhi-zhi-shi/pei-zhi-guan-li.md)
-* [使用GoMicro](ch1/kuang-jia-zong-lan.md)
+* [使用GoMicro](ch1/ch1-3.md)
 * [源码结构](ch1/yuan-ma-jie-gou.md)
 
 ## GoMicro运行时 <a id="ch2"></a>
