@@ -2,11 +2,11 @@
 
 * [GoMicro源码分析](README.md)
 
-## 入门使用 <a id="ch1"></a>
+## 概念与架构介绍 <a id="ch1"></a>
 
-* [微服务与GoMicro](ch1/ch1-1/README.md)
-  * [微服务介绍](ch1/ch1-1/ch0-1-1.md)
-* [前置知识](ch1/qian-zhi-zhi-shi/README.md)
+* [微服务架构体系](ch1/qian-zhi-zhi-shi/README.md)
+  * [微服务介绍](ch1/qian-zhi-zhi-shi/ch0-1-1.md)
+  * [微服务基本组件](ch1/qian-zhi-zhi-shi/wei-fu-wu-ji-ben-zu-jian.md)
   * [服务细分与容器化](ch1/qian-zhi-zhi-shi/rong-qi-hua.md)
   * [服务网关](ch1/qian-zhi-zhi-shi/fu-wu-wang-guan.md)
   * [服务注册与发现](ch1/qian-zhi-zhi-shi/fu-wu-fa-xian.md)
