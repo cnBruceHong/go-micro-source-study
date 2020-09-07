@@ -19,8 +19,8 @@
 
 ## GoMicro运行时 <a id="ch2"></a>
 
-* [介绍](ch2/untitled.md)
-* [NEW 命令](ch2/new-ming-ling.md)
+* [介绍](ch2/ch2-1.md)
+* [NEW 命令](ch2/ch2-2.md)
 * [INIT 命令](ch2/init-ming-ling.md)
 * [WEB 命令](ch2/web-ming-ling.md)
 * [LIST 命令](ch2/list-ming-ling.md)
